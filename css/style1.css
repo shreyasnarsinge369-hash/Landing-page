@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #020617;
+  color: #e5e7eb;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
